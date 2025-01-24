@@ -71,7 +71,7 @@ export default function Home() {
 
           <div className='flex justify-start items-start gap-3 mt-5'>
             <a className='text-white border-2 border-[#1f1f1f] rounded-full size-14 flex justify-center items-center hover:border-slate-300' href="https://www.linkedin.com/in/koushikchandra99/" target='_blank' >
-              <Linkedin size={25} strokeWidth='1px' fill='white' />
+              <Linkedin size={25} strokeWidth='1px' fill='white' /> 
             </a>
         
 
