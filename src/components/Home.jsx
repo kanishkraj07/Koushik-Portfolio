@@ -65,7 +65,7 @@ export default function Home() {
           
           <h3 className='text-white text-2xl mt-2'><span className="text text-white font-primaryMedium">Paid Social Analyst</span></h3>
           <div className='text-white text-md mt-5'>
-            <span className='break-words'>I'm a results-driven Digital Marketing Engineer with expertise in social media strategy, campaign management, and data-driven decision-making, leveraging platforms like Facebook, Instagram, and LinkedIn to drive brand growth and engagement while maintaining a client-focused approach.
+            <span className='break-words'>I'm a results-driven Social Analyst with expertise in social media strategy, campaign management, and data-driven decision-making, leveraging platforms like Facebook, Instagram, and LinkedIn to drive brand growth and engagement while maintaining a client-focused approach.
             </span>
           </div>
 
