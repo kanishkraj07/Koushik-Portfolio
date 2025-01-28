@@ -7,7 +7,7 @@ export default function Experience() {
         <div className="timeline-items before:h-10 lg:before:h-full">
         <div className="mt-7 lg:mb-8 lg:w-full lg:relative lg:last:mb-8 lg:even:pl-[calc(50%+30px)] lg:odd:pr-[calc(50%+30px)] lg:odd:text-right">
           <div className="timeline-dot"></div>
-            <div className="text-center text-white mt-10 lg:timeline-date"><span className='text-2xl'>Qbitz Technologies Private Limited</span> <span className='text-xl'>- Social Analyst <p>(March 2021 - Present)</p></span> 
+            <div className="text-center text-white mt-10 lg:timeline-date"><span className='text-2xl'>Techfosys Software Solutions</span> <span className='text-xl'>- Social Analyst <p>(March 2021 - Present)</p></span> 
             </div>
               <div className="timeline-content">
                 
